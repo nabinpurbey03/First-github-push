@@ -1,2 +1,2 @@
 # Trigonometry
-First project in GitHub :)
+First project on GitHub :)
